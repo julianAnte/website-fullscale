@@ -31,6 +31,8 @@
 	--circle: 50%;
 
 	/* common padding sizes */
+	--padding-tiny: 0.1rem;
+	--padding-xsmall: 0.25rem;
 	--padding-small: 0.5rem;
 	--padding-regular: 0.75rem;
 	--padding-normal: 0.95rem;
